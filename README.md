@@ -3,8 +3,7 @@
 </h1>
 
 <p align='center'>
-  A PHP developer, specializing in development of custom web applications.<br />
-  My focus is to code in the backend, but I know how to act in the frontend when necessary.
+As a seasoned software engineer, I possess a passion for developing code that is clean, maintainable, and testable, and have consistently demonstrated this ability in past positions. My expertise with highly-available systems and my comprehensive understanding of software development methodologies enable me to build high-quality software solutions that meet business needs. Additionally, I have hands-on experience with a range of technologies, including Docker and AWS (SQS, Lambda Functions, S3, and EC2), as well as PHP, Laravel, Vue.js, Git, MySQL, Selenium, and GCP. Throughout my career, I have collaborated with other software engineers to review code, improve solutions, and ensure smooth functionality. 
 </p>
 
 <p align='center'>
