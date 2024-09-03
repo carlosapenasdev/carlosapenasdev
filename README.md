@@ -18,9 +18,9 @@ As a seasoned software engineer, I possess a passion for developing code that is
 
 <p align='center'>
   💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Intel-Core_i3_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/RAM-12GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="[https://img.shields.io/badge/Intel-Core_i3_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white](https://img.shields.io/badge/Intel-Core_i7_8th-0071C5?style=for-the-badge&logo=intel&logoColor=white)" /> 
+  <img src="https://img.shields.io/badge/RAM-32GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA-geforce%20mx150-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
