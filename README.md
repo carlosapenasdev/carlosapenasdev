@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there 👋 I'm Carlos Santos 👨‍💻
+  Hi there 👋 I'm Carlos Apenas 👨‍💻
 </h1>
 
 <p align='center'>
@@ -7,13 +7,13 @@ As a seasoned software engineer, I possess a passion for developing code that is
 </p>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/carlosapenasdev/">
+  <a href="https://www.linkedin.com/in/ocarlosapenas/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;  
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=carlosapenasdev&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=ocarlosapenas&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
@@ -36,6 +36,6 @@ As a seasoned software engineer, I possess a passion for developing code that is
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/carlosapenasdev/carlosapenasdev"></a> :octocat: killed by curiosity o/
+  <a href="#"><img src="https://badges.pufler.dev/visits/ocarlosapenas/ocarlosapenas"></a> :octocat: killed by curiosity o/
 </p>
 
